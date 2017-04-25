@@ -12,8 +12,7 @@ To getting started with the just get a copy of the chart (as image and xml forma
 
 ## Why?
 
-Because i'm getting lots of messages about "How i can start my career as IOS Developer", "How i can become Senior level" etc.
-I used a flow chart to draw a roadmap, which close to I followed too.
+Because I'm getting lots of messages about "How can I start my career as IOS Developer", "How can I become Senior level" etc. I used a flow chart to draw a roadmap, which approximately what I followed too.
 
 ## Diagram
 
