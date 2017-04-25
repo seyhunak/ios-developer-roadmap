@@ -21,9 +21,9 @@ I used a flow chart to draw a roadmap, which close to I followed too.
 
 ## Download
 
-[![IOS Developer Roadmap - Portable Format](https://github.com/seyhunak/ios-developer-roadmap/blob/master/IOS_Developer_Roadmap.pdf?raw=true)](https://github.com/seyhunak/ios-developer-roadmap)
+[IOS Developer Roadmap - Portable Format](https://github.com/seyhunak/ios-developer-roadmap/blob/master/IOS_Developer_Roadmap.pdf?raw=true)
 
-[![IOS Developer Roadmap - XML Drawing Format](https://github.com/seyhunak/ios-developer-roadmap/blob/master/IOS_Developer_Roadmap.xml?raw=true)](https://github.com/seyhunak/ios-developer-roadmap)
+[IOS Developer Roadmap - XML Drawing Format](https://github.com/seyhunak/ios-developer-roadmap/blob/master/IOS_Developer_Roadmap.xml?raw=true)
 
 ## Contributing
 
