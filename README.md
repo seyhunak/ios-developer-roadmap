@@ -15,6 +15,10 @@ To getting started with the just get a copy of the chart (as image and xml forma
 Because i'm getting lots of messages about "How i can start my career as IOS Developer", "How i can become Senior level" etc.
 I used a flow chart to draw a roadmap, which close to I followed too.
 
+## Diagram
+
+[![IOS Developer Roadmap](https://github.com/seyhunak/ios-developer-roadmap/blob/master/IOS_Developer_Roadmap.jpg?raw=true)](https://github.com/seyhunak/ios-developer-roadmap)
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/seyhunak/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
