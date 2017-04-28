@@ -1,6 +1,6 @@
 # IOS Developer Roadmap
 
-Roadmap to becoming a IOS developer
+Roadmap to becoming an IOS developer
 
 ## Getting Started
 
