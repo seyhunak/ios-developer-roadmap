@@ -22,7 +22,7 @@ Because I'm getting lots of messages about "How can I start my career as IOS Dev
 
 [IOS Developer Roadmap - Portable Format](https://github.com/seyhunak/ios-developer-roadmap/blob/master/IOS_Developer_Roadmap.pdf?raw=true)
 
-[IOS Developer Roadmap - XML Drawing Format](https://github.com/seyhunak/ios-developer-roadmap/blob/master/IOS_Developer_Roadmap.xml?raw=true)
+[IOS Developer Roadmap - XML Drawing Format](https://github.com/seyhunak/ios-developer-roadmap/blob/master/IOS_Developer_Roadmap?raw=true)
 
 ## Contributing
 
